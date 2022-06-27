@@ -7,54 +7,42 @@ import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 
-const items = [{
-    "title": "Website",
-    "subtitle": "Look at my work!",
-    "image": website,
-    "link": "https://sagniksahoo.codes" //your personal website or portfolio  link
-},
+const items = [
 {
     "title": "GitHub",
-    "subtitle": "@heysagnik | 🏡 to all my open-source projects",
+    "subtitle": "@sanalpencere | 🏡 to all my open-source projects",
     "image": github,
-    "link": "https://github.com/heysagnik" //Github Profile link
+    "link": "https://github.com/sanalpencere" //Github Profile link
 },
 {
     "title": "Instagram",
-    "subtitle": "@heysagnik |  Shots of my life 🙂",
+    "subtitle": "@sanalpencere |  Shots of my life 🙂",
     "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
+    "link": "https://instagram.com/sanalpencere" //instagram profile link 
 },
 {
     "title": "Twitter",
-    "subtitle": "@heysagnik | 😉",
+    "subtitle": "@sanal_pencere | 😉",
     "image": twitter,
-    "link": "https://twitter.com/heysagnik"// twitter profile link 
+    "link": "https://twitter.com/sanal_pencere"// twitter profile link 
 },
 {
     "title": "LinkedIn",
     "subtitle": "Know more about my profession 👨‍💼",
     "image": linkedin,
-    "link": "https://www.linkedin.com/in/heysagnik/" // linkedin
+    "link": "https://www.linkedin.com/in/tahsinkasap/" // linkedin
 },
 {
     "title": "YouTube",
-    "subtitle": "CODER SAGNIK | Official channel of mine",
+    "subtitle": "SanalPencere | Official channel of mine",
     "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
-},
-
-{
-    "title": "Dribbble",
-    "subtitle": "@virtuonic | shots of dezigns ",
-    "image": dribbble,
-    "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
+    "link": "https://www.youtube.com/channel/UCRCmI5BtC7TgCsFFTVxkCqg"//youtube channel link 
 },
 {
     "title": "Telegram",
-    "subtitle": "@heysagnik | Chat with me instantly ",
+    "subtitle": "@sanalpencere | Chat with me instantly ",
     "image": telegram,
-    "link": "https://telegram.me/heysagnik" //Telegram Pofile 
+    "link": "https://telegram.me/sanalpencere" //Telegram Pofile 
 }]
 
 export default items
